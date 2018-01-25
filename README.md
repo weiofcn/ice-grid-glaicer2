@@ -4,7 +4,7 @@ This is a demo for showing how to integrate Glacier2 into a Grid project. Glacie
 
 # Requirement
 
-1. [https://zeroc.com/downloads/ice/3.6](https://zeroc.com/downloads/ice/3.60
+1. [https://zeroc.com/downloads/ice/3.6](https://zeroc.com/downloads/ice/3.6)
 
 # Usage 
 
